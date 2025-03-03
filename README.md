@@ -58,6 +58,8 @@ The **Mac_Changer** is a Python script designed to change the Media Access Contr
    chmod +x mac_changer.py
    ```
 
+---
+
 ## Usage
 
 **Command Syntax**
@@ -65,6 +67,7 @@ The **Mac_Changer** is a Python script designed to change the Media Access Contr
    ```bash
    sudo python3 mac_changer.py [options]
    ```
+
 ### Options
 
 | Option                | Description                                      |
@@ -116,6 +119,8 @@ The **Mac_Changer** is a Python script designed to change the Media Access Contr
    ```bash
    sudo python3 mac_changer.py -info
 
+---
+
 ## Important Notes
 
 - **Root Privileges:** This tool requires root privileges to change the MAC address.
@@ -124,21 +129,29 @@ The **Mac_Changer** is a Python script designed to change the Media Access Contr
 
 - **Legal Use:** Use this tool responsibly and only on networks you own or have permission to test on.
 
+---
+
 ## License
 
 This tool is open-source and distributed under the MIT License. Feel free to modify and distribute it as needed.
 
+---
+
 ## Author
 
-   **Name:** kouam parfait j
+   **Name:** Kouam Parfait J
 
    **Contact:** kouamparfait5@gmail.com
 
    **GitHub:** [my github](https://github.com/parfait-code)
 
+---
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+
+---
 
 ## Disclaimer
 
